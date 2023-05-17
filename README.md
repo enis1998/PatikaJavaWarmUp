@@ -1,4 +1,4 @@
-##HOMEWORK
+#HOMEWORK
 - Ev, Villa, Yazlık tipinde 3 adet ev tipi oluşturunuz.
 - Bir class içerisinde en az 3er tane Ev, Villa ve Yazlık nesnelerinden oluşturun ve bu örnekleri size dönen metotları yazınız. (getEvList, getVillaList vs).
 #Bir servis class ının içine de aşağıdaki metotları yazınız:
